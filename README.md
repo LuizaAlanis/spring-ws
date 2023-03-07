@@ -27,3 +27,4 @@ git@github.com:LuizaAlanis/spring-ws.git
 - AWS
 - Spring Cache
 - Spring Security
+- Debug
