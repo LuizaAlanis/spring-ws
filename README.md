@@ -28,3 +28,5 @@ git@github.com:LuizaAlanis/spring-ws.git
 - Spring Cache
 - Spring Security
 - Debug
+- Documentation
+- Project Patterns
